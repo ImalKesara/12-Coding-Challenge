@@ -1,3 +1,5 @@
+package DayTwo;
+
 import java.io.*;
 import java.util.Scanner;
 

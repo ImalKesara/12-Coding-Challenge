@@ -1,3 +1,5 @@
+package DayFour;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Arrays;
@@ -64,7 +66,5 @@ public class DayFour {
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
-
-
     }
 }
